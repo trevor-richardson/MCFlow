@@ -1,8 +1,7 @@
 # MCFlow
 
-A PyTorch implementation of our paper
-"MCFlow: Monte Carlo Flow Models for Data Imputation",
-published at CVPR 2020.
+A PyTorch implementation of our CVPR 2020 conference paper
+"MCFlow: Monte Carlo Flow Models for Data Imputation."
 
 By Trevor W. Richardson, Wencheng Wu, Lei Lin, Beilei Xu and Edgar A. Bernal.
 
