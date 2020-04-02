@@ -28,3 +28,14 @@ By Trevor W. Richardson, Wencheng Wu, Lei Lin, Beilei Xu and Edgar A. Bernal.
 ```
   python main.py
 ```
+### Citation
+Please cite the following if you find our work useful in your research:
+```
+@InProceedings{Rich_2020_CVPR,
+author = {Richardson, Trevor W. and Wu, Wencheng and Lin, Lei and Xu, Beilei and Bernal, Edgar A.},
+title = {MCFlow: Monte Carlo Flow Models for Data Imputation},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+}
+```
